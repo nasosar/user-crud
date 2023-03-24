@@ -1,4 +1,4 @@
-<h1>Listar Usuário</h1>
+<h1>Novo Usuário</h1>
 <form action="?page=salvar" method="POST">
     <input type="hidden" name="acao" value="cadastrar">
     <div class="mb-3">
